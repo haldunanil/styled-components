@@ -6,7 +6,7 @@ _The format is based on [Keep a Changelog](http://keepachangelog.com/) and this 
 
 ## Unreleased
 
-- Remove validation in Babel macro, by [@mAAdhaTTah](http://github.com/mAAdhaTTah) (see [#2427](https://github.com/styled-components/styled-components/pull/2427))
+- Remove deprecated functionality (object-form `.attrs({})`)
 
 ## [v4.3.0] - 2019-06-05
 
